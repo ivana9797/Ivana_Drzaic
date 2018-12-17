@@ -1,1 +1,2 @@
 1. vaja/glasba.txt, vaja/porocilo.txt, vaja/tmp.txt = status:Unknown
+2. vaja/glasba.txt, vaja/porocilo.txt, vaja/tmp.txt = status:Modified
